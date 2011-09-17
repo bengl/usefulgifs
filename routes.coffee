@@ -1,3 +1,7 @@
+# Here is the complete list of gifs that you can use with UsefulGifs.com. To use one, simply use 
+# http://usefulgifs.com/thing.gif as a URL, where [thing] is one of the keys in the list below. For
+# example, for technoviking, the URL would be http://usefulgifs.com/technoviking.gif
+
 # Rules for routes:
 # 1. The key must match /^\w+$/
 # 2. The value must be a URL to an animated gif.
