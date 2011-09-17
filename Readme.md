@@ -1,0 +1,26 @@
+# UsefulGifs.com
+
+This is almost the simplest URL shortener imaginable, and it's manually curated, and written in CoffeeScript just for 
+fun! The complete list of gifs is in server.coffee, so go have a look! To add new gifs to the list: fork, edit, pull 
+request.
+
+### But I want a normal URL shortner!
+
+There are hundred of those here on github, and if you just want to use one, try http://goo.gl or http://bit.ly.
+
+### Why did you write it in CoffeeScript? and why Node.js?
+
+Node.js is fricken awesome, and if you don't think so, well that's just too bad. Ditto for CoffeeScript.
+
+### Why isn't there a backend or anything?
+
+Maybe on day there will be, but for now I think this is good enough. Until the list gets too huge.
+
+### You made a mistake in your code!
+
+Really? That's awesome! I love mistakes, because then I get to learn from them! Either open an issue, or fix it 
+yourself and pull request.
+
+## License
+
+See LICENSE.txt

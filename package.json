@@ -1,0 +1,17 @@
+{
+  "author": "Bryan English <bryan@bryanenglish.com>",
+  "name": "usefulgifs",
+  "description": "A manually curated URL shortener, for gifs.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bengl/usefulgifs.git"
+  },
+  "engines": {
+    "node": "~v0.4.7"
+  },
+  "dependencies": {
+		"express": "2.4.3",
+		"coffee-script": "1.1.2"
+	}
+}
