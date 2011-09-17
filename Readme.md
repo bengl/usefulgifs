@@ -1,7 +1,7 @@
 # UsefulGifs.com
 
 This is almost the simplest URL shortener imaginable, and it's manually curated, and written in CoffeeScript just for 
-fun! The complete list of gifs is in server.coffee, so go have a look! To add new gifs to the list: fork, edit, pull 
+fun! The complete list of gifs is in routes.coffee, so go have a look! To add new gifs to the list: fork, edit, pull 
 request.
 
 #### But I want a normal URL shortner!
