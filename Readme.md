@@ -17,7 +17,7 @@ There are hundreds of those here on github, and if you just want to use one, try
 
 Node.js is fricken awesome, and if you don't think so, well that's just too bad. Ditto for CoffeeScript.
 
-#### Why isn't there a backend or anything?
+#### Why isn't there a DB or anything?
 
 Maybe on day there will be, but for now I think this is good enough. Until the list gets too huge.
 
