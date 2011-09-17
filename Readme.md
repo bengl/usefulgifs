@@ -7,7 +7,7 @@ request.
 #### Why would you do such a pointless thing with such an awesome domain?
 
 I bought the domain on a whim, and thought "What could I do with this?", and here is the result. Besides, this is way 
-better than some SEO parking BS (*What You Need, When You Need It™*).
+better than some SEO parking BS like *What You Need, When You Need It™*.
 
 #### But I want a normal URL shortner!
 
