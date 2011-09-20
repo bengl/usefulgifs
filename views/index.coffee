@@ -10,6 +10,9 @@ margin-left: auto;
 margin-right: auto;
 width: 400px;
 }
+a{
+color: black;
+}
 		'''
 	body ->
 		a href: "http://github.com/bengl/usefulgifs", ->
@@ -23,5 +26,12 @@ width: 400px;
 					span '.gif'
 					br()
 					img src: "http://usefulgifs.com/#{route}.gif"
+		br()
+		br()
+		br()
+		p -> 
+			a href: 'http://twitter.com/bengl', '@bengl'
+			span ' 2011'
+
 				
 
