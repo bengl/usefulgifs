@@ -32,6 +32,6 @@ color: black;
 		p -> 
 			a href: 'http://twitter.com/bengl', '@bengl'
 			span ' 2011'
-
-				
-
+		script type:"text/javascript", ->
+			'lloogg_clientid = "93000180964b7c8"'
+		script type:"text/javascript", src:"http://lloogg.com/l.js?c=93000180964b7c8"
