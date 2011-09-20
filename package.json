@@ -12,6 +12,7 @@
   },
   "dependencies": {
 		"express": "2.4.3",
-		"coffee-script": "1.1.2"
+		"coffee-script": "1.1.2",
+		"coffeekup": "0.3.0"
 	}
 }
